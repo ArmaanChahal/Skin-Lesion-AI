@@ -7,7 +7,7 @@ An AI-powered dermatoscopic image analysis system that uses a deep learning mode
 ## Demo
 The web app allows users to upload dermatoscopic skin lesion images and view segmentation overlays, ABCD metrics, and final TDS scores. A downloadable PDF report is also generated.
 
-
+<img src="demo.png">
 
 To try it locally, follow the steps below to set up the project.
 
