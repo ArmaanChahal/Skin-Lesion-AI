@@ -1,4 +1,4 @@
-cv# DermaScan AI
+# DermaScan AI
 
 An AI-powered dermatoscopic image analysis system that uses a deep learning model for skin lesion segmentation and ABCD feature extraction. The tool helps compute the Total Dermatoscopy Score (TDS) for melanoma risk evaluation and provides downloadable diagnostic reports via a web interface.
 
